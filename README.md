@@ -4,3 +4,6 @@ Typing speed test webpage made with HTML, CSS and JavaScript.
 ## About
 This webpage serves as a typing speed test.
 It has a timer that tracks your speed and shows how fast you are.
+
+## Demo version
+https://aditya12047.github.io/Typing_speed_test/
